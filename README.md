@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there! I'm a novice developer who wants to be a Big Data Engineer.
 
 ### 🔧 Skills
 
