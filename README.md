@@ -13,10 +13,10 @@
 <a href="https://www.oracle.com/kr/" target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=round-square&logo=Oracle&logoColor=white"/>
 
 #### Database IDE
-<a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/DBeaver-4479A1?style=round-square"/>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg/DBeaver-4479A1?style=round-square"/>
 
 
-
+  
 <!--
 **privacy97/privacy97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
