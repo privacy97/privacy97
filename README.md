@@ -16,6 +16,8 @@
 <a href="https://dbeaver.io/" target="_blank"><img src="https://tinyurl.com/2p8avc8c"/>
 <a href="https://www.aquafold.com/" target="_blank"><img src="https://tinyurl.com/3pjj7atr"/>
 
+#### ETL
+<a href="https://www.informatica.com/kr/" target="_blank"><img src="https://img.shields.io/badge/Informatica-FF4D00?style=round-square&logo=Informatica&logoColor=white"/>
 
 
 
