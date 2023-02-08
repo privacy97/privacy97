@@ -18,6 +18,7 @@
 
 #### ETL
 <a href="https://www.informatica.com/kr/" target="_blank"><img src="https://img.shields.io/badge/Informatica-FF4D00?style=round-square&logo=Informatica&logoColor=white"/>
+<a href="https://www.ibm.com/kr-ko/products/datastage" target="_blank"><img src="https://img.shields.io/badge/DataStage-1970C2?style=round-square&logo=IBM&logoColor=white"/>
 
 
 
