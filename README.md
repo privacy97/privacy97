@@ -14,7 +14,7 @@
 #### DataBase
 <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=round-square&logo=MySQL&logoColor=white"/>
 <a href="https://www.ibm.com/kr-ko/products/db2" target="_blank"><img src="https://img.shields.io/badge/DB2-00952B?style=round-square&logo=IBM&logoColor=black"/>
-<a href="https://mariadb.org/" target="_blank"><img src="https://img.shields.io/badge/MariaDB-003545?style=round-square&logo=MariaDB&logoColor=white"/>
+<a href="https://mariadb.org/" target="_blank"><img src="https://img.shields.io/badge/MariaDB-4E629A?style=round-square&logo=MariaDB&logoColor=white"/>
 <a href="https://www.oracle.com/kr/" target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=round-square&logo=Oracle&logoColor=white"/>
 
 #### Database IDE
