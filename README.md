@@ -1,14 +1,14 @@
 # 🚧 Under Construction 🚧
 
-### 👋 Hi there!
+## 👋 Hi there!
 #### I'm a novice developer who wants to be a Professional Big Data Engineer.
 <br/>
 
-### 🪄 I'm now
+## 📌 I'm now
 #### Studying ETL and Algorithm. And I'm going to take the SQLD test!
 <br/>
 
-### 🔧 Skills
+## 🔧 Skills
 #### Language
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=Python&logoColor=FFD343"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=round-square&logo=C&logoColor=white"/>
@@ -36,7 +36,7 @@
 
 <br/>
 
-### 📋 Certificate
+## 📋 Certificate
   - 컴퓨터활용능력2급
   - 워드프로세서
   - ITQ 한글, 엑셀, 파워포인트
