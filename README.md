@@ -3,11 +3,9 @@
 ### 👋 Hi there!
 #### I'm a novice developer who wants to be a Professional Big Data Engineer.
 <br/>
-<br/>
 
 ### 🪄 I'm now
 #### Studying ETL and algorithm. And I'm going to take the SQLD test!
-<br/>
 <br/>
 
 ### 🔧 Skills
