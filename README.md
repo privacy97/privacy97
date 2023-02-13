@@ -5,7 +5,7 @@
 <br/>
 
 ### 🪄 I'm now
-#### Studying ETL and algorithm. And I'm going to take the SQLD test!
+#### Studying ETL and Algorithm. And I'm going to take the SQLD test!
 <br/>
 
 ### 🔧 Skills
