@@ -4,8 +4,7 @@
 #### I'm a novice developer who wants to be a Professional Big Data Engineer.
 
 ### I'm now
-#### Studying ETL and algorithm.
-#### And I'm going to take the SQLD test!
+#### Studying ETL and algorithm.   And I'm going to take the SQLD test!
 
 ### 🔧 Skills
 #### Language
