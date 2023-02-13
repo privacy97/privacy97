@@ -2,6 +2,11 @@
 
 ### 👋 Hi there!
 #### I'm a novice developer who wants to be a Professional Big Data Engineer.
+
+### I'm now
+#### Studying ETL and algorithm.
+#### And I'm going to take the SQLD test!
+
 ### 🔧 Skills
 #### Language
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=Python&logoColor=FFD343"/>
