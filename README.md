@@ -35,6 +35,13 @@
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=round-square&logo=CSS3&logoColor=white"/>
 
 
+### Certificate
+  - 컴퓨터활용능력2급
+  - 워드프로세서
+  - ITQ 한글, 엑셀, 파워포인트
+  - GTQ
+  - 한국사2급
+
 
 <!--
 **privacy97/privacy97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
