@@ -2,10 +2,15 @@
 
 ## 👋 Hi there!
 #### I'm a novice developer who wants to be a Professional Big Data Engineer.
+#### 안녕하세요! 저는 빅데이터 엔지니어가 되고싶은 주니어 개발자 입니다!
 <br/>
 
 ## 📌 I'm now
-#### Studying ETL and Algorithm. And I'm going to take the SQLD test!
+#### 지금은 ETL을 활용한 데이터적재 업무를 맡고 있어요!
+#### 파이썬을 활용한 알고리즘과 SQL도 공부하고 있습니다!
+#### 2023-03-18 : YBM - Cos Pro (Python)
+#### 2023-03-19 : 한국데이터산업진흥원 - SQLD
+
 <br/>
 
 ## 🔧 Skills
