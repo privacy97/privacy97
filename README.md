@@ -7,7 +7,7 @@
 
 ## 📌 I'm now
 지금은 ETL을 활용한 데이터적재 업무를 맡고 있어요! <br/>
-파이썬을 활용한 알고리즘과 SQL도 공부하고 있습니다! <br/>
+파이썬을 활용한 알고리즘과 SQL공부도 병행하고 있습니다~! <br/>
 <br/>
 
 ## 🔧 Skills
@@ -35,15 +35,14 @@
 #### ETC.
 <a href="https://html.spec.whatwg.org/" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=round-square&logo=HTML5&logoColor=white"/>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=round-square&logo=CSS3&logoColor=white"/>
-
 <br/>
 
-## Certificate Test Schedule
+## 📆 Certificate Test Schedule
 2023-03-18 : YBM - Cos Pro (Python) <br/>
 2023-03-19 : 한국데이터산업진흥원 - SQLD <br/>
 2023-05-13 ~ 2023-06-04 : 한국산업진흥공단 - 정보처리기사 <br/>
-  
-  
+<br/>
+
 ## 📋 Certificate
   - 컴퓨터활용능력2급
   - 워드프로세서
