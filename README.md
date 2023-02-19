@@ -10,12 +10,6 @@
 파이썬을 활용한 알고리즘과 SQL도 공부하고 있습니다! <br/>
 <br/>
 
-### 시험일정
-2023-03-18 : YBM - Cos Pro (Python) <br/>
-2023-03-19 : 한국데이터산업진흥원 - SQLD
-
-<br/>
-
 ## 🔧 Skills
 #### Language
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=Python&logoColor=FFD343"/>
@@ -44,6 +38,12 @@
 
 <br/>
 
+## Certificate Test Schedule
+2023-03-18 : YBM - Cos Pro (Python) <br/>
+2023-03-19 : 한국데이터산업진흥원 - SQLD <br/>
+2023-05-13 ~ 2023-06-04 : 한국산업진흥공단 - 정보처리기사 <br/>
+  
+  
 ## 📋 Certificate
   - 컴퓨터활용능력2급
   - 워드프로세서
