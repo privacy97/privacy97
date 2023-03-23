@@ -39,12 +39,12 @@
 <br/>
 
 ## 📆 Certificate Test Schedule
-2023-03-18 : YBM - Cos Pro (Python) <br/>
 2023-03-19 : 한국데이터산업진흥원 - SQLD <br/>
 2023-05-13 ~ 2023-06-04 : 한국산업진흥공단 - 정보처리기사 <br/>
 <br/>
 
 ## 📋 Certificate
+  - YBM COS-Pro(Python) 1급
   - 컴퓨터활용능력2급
   - 워드프로세서
   - ITQ (한글, 엑셀, 파워포인트)
