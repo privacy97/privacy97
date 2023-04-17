@@ -39,7 +39,7 @@
 <br/>
 
 ## 📆 Certificate Test Schedule
-2023-05-13 ~ 2023-06-04 : 한국산업진흥공단 - 정보처리기사 <br/>
+2023-06-03 : 한국산업진흥공단 - 정보처리기사 <br/>
 <br/>
 
 ## 📋 Certificate
